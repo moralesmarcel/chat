@@ -3,8 +3,8 @@ const msgerForm2 = get(".msger-inputarea2");
 const msgerInput = get(".msger-input");
 const msgerInput2 = get(".msger-input2");
 const msgerChat = get(".msger-chat");
-const USER_IMG = "https://www.flaticon.com/svg/static/icons/svg/3462/3462543.svg";
-const USER2_IMG = "https://www.flaticon.com/svg/static/icons/svg/3462/3462133.svg";
+const USER_IMG = "https://static.thenounproject.com/png/425150-200.png";
+const USER2_IMG = "https://static.thenounproject.com/png/3374963-200.png";
 const USER_NAME = "Marcel";
 const USER2_NAME = "Tester";
 
